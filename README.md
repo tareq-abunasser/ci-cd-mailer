@@ -1,4 +1,4 @@
-"# CI/CD send email with apk exists in google drive folder"
+# CI/CD send email with apk exists in google drive folder
 
 ## add .env file
 ```
